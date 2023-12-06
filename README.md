@@ -30,8 +30,10 @@ Definiendo la cuadricula de la misma forma que en la rutina anterior, el unico c
 
 
 # Video de Primeros Movimientos en Robot SCARA
+En este primer video se muestra el ejercicio inicial, el cual consite en ir a 3 puntos previamente definidos mediante la operacion de enseñanza manual de aquellos puntos; donde se manipuló fisicamente de forma que se la herramienta se encontrara en los puntos deseados y se guardara aquella posicion en la memoria de robot. Se realizaron 3 movimientos distintos usando los comandos *move*, *go* y *jump*. El primero de estos comandos realiza un movimiento lineal desde el punto de origen hasta el punto de detino, el segundo realiza el movimineto de punto A a punto B de tal forma que lo hace usando un algortimo que no pide tantos recursos para operar y que no garantiza un movimento lineal pero si rapido. Por ultimo, el comando *jump* realiza un movimiento lineal de punto origen a  punto destino realizando un movimiento en la tercera articulacion llevando la herramienta a Z=0 y de regreso a su posicion inicial una vez ha llegado a su punto destino.
 https://drive.google.com/file/d/1JvVPhqxk5jlifc67FBeYukoPVBREIzIJ/view?usp=sharing
 # Video de Paletizado 
+Este segund ovideo muestra las operaciones de paletizado en S y Z junto con un paletizado externo el cual permite alcanzar cada una de las concavidades del molde mostrado en el video.
 https://drive.google.com/file/d/1K9kjpsfY8MNcmO08PnX7UPWOqlKnLlXd/view?usp=sharing
 
 
