@@ -1,6 +1,12 @@
 # RoboticaLabEpson
+# Itegrantes: 
+- Andres Hernandez
+- Sebastian Daleman
+- Andrés Barrera
+- Daniel Segura
+- Andrés Serna
 
-Observaciones:
+# Observaciones:
 
 El archivo 'PracticaEpson.txt' con tiene el codigo empleado para la solucion del problema planteado.
 
@@ -21,4 +27,12 @@ Paletizado en S:
 Definiendo la cuadricula de la misma forma que en la rutina anterior, el unico cambio que se debe hacer en este caso es la forma en la que se usa el ciclo for para recorrer esta cuadricula ya que ahora la figura que debe seguir el robot es en forma de S como muestra la siguiente imagen.
 
 ![image](https://github.com/Jbarreraro/RoboticaLabEpson/assets/70239708/b0424709-d4c1-4757-bf63-26dcce5a1528)
+
+
+# Video de Primeros Movimientos en Robot SCARA
+https://drive.google.com/file/d/1JvVPhqxk5jlifc67FBeYukoPVBREIzIJ/view?usp=sharing
+# Video de Paletizado 
+https://drive.google.com/file/d/1K9kjpsfY8MNcmO08PnX7UPWOqlKnLlXd/view?usp=sharing
+
+
 
